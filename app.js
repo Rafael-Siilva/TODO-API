@@ -7,7 +7,7 @@ const controllerTarefa = require('./Controller/tarefa-controller')
 
 const Usuario = require('./module/usuario');
 
-const usr = new Usuario("Luiz", "luiz.ribeiro@resilia.com", "ehmuitogrande");
+const usr = new Usuario("Rafael", "rfsilva022@gmail.com", "É MUITO GRANDE");
 console.log(usr);
 
 const port = 8080;
